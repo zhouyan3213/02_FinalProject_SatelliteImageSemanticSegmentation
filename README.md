@@ -1,2 +1,4 @@
 # 02_FinalProject_SatelliteImageSemanticSegmentation
 包含卫星图像语义分割模型权重文件，测试结果文件
+test_images为输入模型的原图集，test_outputs为模型的预测结果。
+releases中的mymodel.pth,我的模型的权重文件，PspNet.pth是PspNet模型的权重文件。
