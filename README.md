@@ -1,0 +1,2 @@
+# 02_FinalProject_SatelliteImageSemanticSegmentation
+包含卫星图像语义分割模型权重文件，测试结果文件
